@@ -1,6 +1,6 @@
 # Todo API with ASP.NET Core
 
-This repository contains a simple Todo API built using ASP.NET Core and Entity Framework Core. The API allows basic CRUD operations on todo items using an in-memory database.
+This repository contains a simple Todo API built using ASP.NET Core and Entity Framework Core In-Memory Database. The API allows basic CRUD operations on todo items using an in-memory database.
 
 ## Features
 
